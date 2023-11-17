@@ -1,0 +1,36 @@
+.fluid-container {
+  background-image: url("https://images.unsplash.com/photo-1513530534585-c7b1394c6d51?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8b25saW5lJTIwd29ya3xlbnwwfHwwfHw%3D&w=1000&q=80");
+  height: 100%;
+  width: 100%;
+  background-size: 1225px 650px;
+  background-repeat: no-repeat;
+}
+.btn {
+  margin-top:2%;
+  margin-left: 45%;
+  border: none;
+  outline: none;
+  padding: 16px 20px;
+  cursor: pointer;
+  color: white;
+  font-size: 18px;
+  outline: none;
+  background-image: linear-gradient(
+    15deg,
+    #009994 20%,
+    #005f99 118%,
+    #009699 100%
+  );
+}
+.heading{
+  text-align: center;
+  color: darkgreen;
+  margin-top:24%;
+  text-decoration: solid;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p1{
+  text-align: center;
+  
+  text-decoration: solid;
+}
